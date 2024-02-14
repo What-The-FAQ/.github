@@ -5,3 +5,13 @@ We are a dedicated team of documenters which take other services blog posts, doc
 <p>A lot of services out there have less documentation, answered questions, PR response than you think.</p>
 <br>
 So we have built WTFAQ for the people with a sprinkle of spice and everything nice.
+
+## Want to contribute?
+We have multiple methods but for now we have these social media avenues for you to take:
+
+[Discord](https://discord.gg/2KEAfP2pdd)
+Slack [Currently configuring]
+X (We miss the bird) [Currently configuring]
+YouTube [Content being made eventually]
+Twitch [Currently planning to stream with the team]
+Matrix [Setting up the server for this]
