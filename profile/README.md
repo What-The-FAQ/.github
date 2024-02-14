@@ -9,9 +9,10 @@ So we have built WTFAQ for the people with a sprinkle of spice and everything ni
 ## Want to contribute?
 We have multiple methods but for now we have these social media avenues for you to take:
 
-[Discord](https://discord.gg/2KEAfP2pdd)
-Slack [Currently configuring]
-X (We miss the bird) [Currently configuring]
-YouTube [Content being made eventually]
-Twitch [Currently planning to stream with the team]
-Matrix [Setting up the server for this]
+
+<p>[Discord](https://discord.gg/2KEAfP2pdd)</p>
+<p>Slack [Currently configuring]</p>
+<p>X (We miss the bird) [Currently configuring]</p>
+<p>YouTube [Content being made eventually]</p>
+<p>Twitch [Currently planning to stream with the team]</p>
+<p>Matrix [Setting up the server for this]</p>
