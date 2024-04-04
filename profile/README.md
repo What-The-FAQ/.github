@@ -11,7 +11,7 @@ We have multiple methods but for now we have these social media avenues for you 
 
 
 [Discord](https://discord.gg/2KEAfP2pdd)
-<p> Slack [Currently configuring] </p>
+<p> [Slack](https://join.slack.com/t/whatthefaq/shared_invite/zt-2g5nhxrv7-u29vByuhIPveEDCLlreS4g) </p>
 <p> X (We miss the bird) [Currently configuring] </p>
 <p> YouTube [Content being made eventually] </p>
 <p> Twitch [Currently planning to stream with the team] </p>
